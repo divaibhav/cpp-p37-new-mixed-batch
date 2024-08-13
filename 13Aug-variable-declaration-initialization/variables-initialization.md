@@ -52,7 +52,7 @@
 ![error-code](./resources/error-code-pic.png)
 ![compile-error](./resources/compilation-error.png)  
 
-#### Printing variable's value using cout
+### Printing variable's value using cout
 - So, you have already declared and initialize the variable, Now you want to print the value of variable on the console.
 - To print, we will use cout and variable name in the following manner:
 -   ```
