@@ -67,4 +67,5 @@
         cout << total_marks;
     ```
 - Sample Program
+
 ![sample-program](./resources/demo_variable_output.png)
