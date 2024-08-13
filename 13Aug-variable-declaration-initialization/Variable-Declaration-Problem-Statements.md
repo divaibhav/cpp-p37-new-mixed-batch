@@ -8,4 +8,11 @@
         double temprature = 28.7;
         ```
         Print the value of these variables on console.
-4. Write a program to declare `int number1` and `int number2`. Initialize `number1` by value 35 and `number2` by variable number1. Hint `number2` can be initialize by another variable `number1` as following way `number2 = number1`.
+4. Write a program to declare `int number1` and `int number2`. Initialize `number1` by value 35 and `number2` by variable number1. Print `number1` and `number2` on console in following format:
+
+    ```
+    Number 1 = 35
+    Number 2 = 35
+    ```
+
+ Hint `number2` can be initialize by another variable `number1` as following way `number2 = number1`.
