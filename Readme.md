@@ -1,0 +1,2 @@
+- [datatype and variables](./12Aug-data-types-and-variables/data-types-variables.md)
+- [Variable declaration, initialization and output](./13Aug-variable-declaration-initialization/variables-initialization.md)
