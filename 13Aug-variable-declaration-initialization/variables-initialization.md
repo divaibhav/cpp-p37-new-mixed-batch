@@ -3,6 +3,8 @@
 - To declare a variable you have to use the following syntax:
     -   ```
             datatype variable_name;
+        ```
+        ```
 
             Examples:
             int number;         // will declare an integer variable
@@ -18,6 +20,9 @@
 - A variable must be declared before initialization. To initialize a variable use the following syntax:
     -   ```
         variable_name = value;
+        ```
+
+        ```
 
         To initialize we will use the name of variable, = -> assignment operator and coressponding value as per data type of variable
 
@@ -52,7 +57,9 @@
 - To print, we will use cout and variable name in the following manner:
 -   ```
         cout << variable_name;
+    ```
 
+    ```
         Example:
         int total_marks;
         total_marks = 451;
